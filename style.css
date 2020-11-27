@@ -1,0 +1,46 @@
+body {
+  
+}
+
+.slide {
+  width:100%; height:400px;
+  position:absolute;
+}
+
+button {
+  margin:auto; position:absolute;
+  width:100px; height:100px;
+  left:0; right:0;
+  margin-top:550px; padding:0;
+  background-color:#de7a87;
+  color:white; font-weight:bold;
+  border-style:inlet; border-width:5px; border-color:#de6d7c;
+}
+
+img {
+  position:absolute; margin:auto;
+  margin-top:50px;
+  top:0; left:0; right:0; bottom:0;
+  width:300px; height:250px;
+  background-color:gray;
+  border-style:inset; border-width:5px; border-color:#d4d4d4;
+}
+
+.textbox {
+  margin:auto; margin-top:375px;
+  left:0; right: 0;
+  width:45%; height:100px;
+  background-color:#6a7ae6;
+  font-size:20px;
+  color:white; padding:4px; padding-left:6px; font-weight:bold;
+  border-style:inset; border-width:5px; border-color:#5b6de3;
+  position:absolute;
+}
+
+#b_1 {
+  left:-300px;
+}
+
+#b_2 {
+  right:-300px;
+}

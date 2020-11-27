@@ -1,2 +1,0 @@
-# choices
-project 3
